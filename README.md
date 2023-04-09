@@ -1,7 +1,7 @@
 # AppleJoy
 Adapter for Atari/Sega joysticks on Apple ][ / Franklin ACE 1000
 
-This is a slight reworking of Thor Arne Hustvedt's "Apple IIe digital joystick adaptor for using Kempston/Atari/Amiga digital joysticks on an Apple IIe", available at https://www.pcbway.com/project/shareproject/Apple_IIe_digital_joystick_adaptor_for_using_Kempston_SEGA_Atari_Amiga_digital_joysticks_on_an_Apple_IIe.html
+This is a slight reworking of Tor Arne Hustvedt's "Apple IIe digital joystick adaptor for using Kempston/Atari/Amiga digital joysticks on an Apple IIe", available at https://www.pcbway.com/project/shareproject/Apple_IIe_digital_joystick_adaptor_for_using_Kempston_SEGA_Atari_Amiga_digital_joysticks_on_an_Apple_IIe.html
 
 The schematic has been recreated from the board file, and the BC558 PNP transistors have been replaced with 2N3906 transistors (which seem to be more readily available).
 
